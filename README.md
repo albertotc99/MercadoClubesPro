@@ -1,8 +1,24 @@
 # MercadoClubesPro
 Clubes Pro es un modo de juego de FIFA en el cual se enfrentan 11 
-vs 11 jugadores. Existen muchas competiciones para este modo de 
-juego, entre ellas la liga oficial [VFO](http://www.vfospain.com/psn/).
+vs 11 jugadores y que tiene una comunidad considerable de usuarios.
+Existen muchas competiciones para este modo de juego, entre ellas 
+la liga oficial [VFO](http://www.vfospain.com/psn/).
 
-El objetivo de este proyecto es ayudar a la comunidad de Clubes Pro
-poniendo en contacto a jugadores y clubes de forma sencilla.
+Cuando llega el mercado de fichajes y un equipo necesita reforzarse
+los capitanes escriben anuncios en Twitter indicando plataforma
+(PS4, PC o XBOX) y división del equipo, posiciones buscadas y otros
+requisitos. De igual forma, los jugadores que buscan club ponen
+tuits indicando su posición, plataforma en la que juegan,
+experiencia... Todos esos tuits mencionan a cuentas de ayuda para
+ser retuiteados y tener mayor visibilidad. Un [ejemplo](https://twitter.com/p3dr3tti_87/status/1425809287943761929).
+
+Con este método, cuando un jugador busca equipo o viceversa, se
+tienen que leer muchos tuits que no tienen nada que ver con lo
+buscado, haciendo de esta una tarea muy engorrosa.
+
+El objetivo de este proyecto es hacer una aplicación que permita 
+tanto a jugadores como a equipos publicar sus anuncios y filtrar 
+los ya publicados para encontrar lo que buscan de manera sencilla,
+sin necesidad de filtrar manualmente tuits para encontrar el
+jugador/equipo adecuado.
 
