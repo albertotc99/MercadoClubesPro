@@ -20,5 +20,9 @@ El objetivo de este proyecto es hacer una aplicación que permita
 tanto a jugadores como a equipos publicar sus anuncios y filtrar 
 los ya publicados para encontrar lo que buscan de manera sencilla,
 sin necesidad de filtrar manualmente tuits para encontrar el
-jugador/equipo adecuado.
+jugador/equipo adecuado. 
 
+Además, los mánagers podrán comparar hasta 5 jugadores de la misma posición 
+y se predecirá cuál tiene más valor según la importancia que dé el mánager 
+a distintos aspectos tanto objetivos como subjetivos  utilizando el 
+método AHP (Analytic Hierarchy Process) o proceso analítico jerárquico.
