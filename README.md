@@ -1,4 +1,6 @@
 # MercadoClubesPro
+
+## Descripción del problema - Objetivo 0
 Clubes Pro es un modo de juego de FIFA en el cual se enfrentan 11 
 vs 11 jugadores y que tiene una comunidad considerable de usuarios.
 Existen muchas competiciones para este modo de juego, entre ellas 
@@ -26,3 +28,7 @@ Además, los mánagers podrán comparar hasta 5 jugadores de la misma posición
 y se predecirá cuál tiene más valor según la importancia que dé el mánager 
 a distintos aspectos tanto objetivos como subjetivos  utilizando el 
 método AHP (Analytic Hierarchy Process) o proceso analítico jerárquico.
+
+## Objetivo 1
+
+* [Tipos de usuario e historias de usuario](./docs/HUs.md).
