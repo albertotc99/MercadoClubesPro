@@ -25,4 +25,5 @@ equipo o jugador, tratando de evitar los problemas anteriores.
 
 ## Objetivo 1
 
-* [Tipos de usuario e historias de usuario](./docs/HUs.md).
+* [Historias de usuario](./docs/HUs.md).
+* [Tipos de usuario](./docs/usuarios.md)
