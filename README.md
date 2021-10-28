@@ -1,4 +1,6 @@
-# MercadoClubesPro
+# MercadoFichajesClubesPro
+
+## Descripción del problema - Objetivo 0
 Clubes Pro es un modo de juego de FIFA en el cual se enfrentan 11 
 vs 11 jugadores y que tiene una comunidad considerable de usuarios.
 Existen muchas competiciones para este modo de juego, entre ellas 
@@ -14,11 +16,14 @@ ser retuiteados y tener mayor visibilidad. Un [ejemplo](https://twitter.com/p3dr
 
 Con este método, cuando un jugador busca equipo o viceversa, se
 tienen que leer muchos tuits que no tienen nada que ver con lo
-buscado, haciendo de esta una tarea muy engorrosa.
+buscado, haciendo de esta una tarea muy engorrosa. Además, muchas
+veces se prueban jugadores que no se adaptan al equipo por disponibilidad,
+estilo de juego u otros factores. 
 
-El objetivo de este proyecto es hacer una aplicación que permita 
-tanto a jugadores como a equipos publicar sus anuncios y filtrar 
-los ya publicados para encontrar lo que buscan de manera sencilla,
-sin necesidad de filtrar manualmente tuits para encontrar el
-jugador/equipo adecuado.
+Con esta aplicación se pretende facilitar la tarea de encontrar
+equipo o jugador, tratando de evitar los problemas anteriores.
 
+## Objetivo 1
+
+* [Historias de usuario](./docs/HUs.md).
+* [Tipos de usuario](./docs/usuarios.md)
