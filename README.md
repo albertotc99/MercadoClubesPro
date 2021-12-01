@@ -30,5 +30,13 @@ equipo o jugador, tratando de resolver los problemas anteriores.
 * [Justificación de la elección de Poetry como task-runner y dependency manager](./docs/task-runner.md)
 
 
+## Instalación y uso
 
+Para instalar este proyecto se debe comenzar por clonar el repositorio. Después se tiene que instalar *poetry* siguiendo las instrucciones de [instalación de poetry](https://python-poetry.org/docs/).
+
+Una vez clonado el repositorio e instalado *poetry* se tiene que abrir una terminal en la carpeta del proyecto y ejecutar ` poetry install ` para instalar las dependencias.
+
+En este punto podemos comprobar la sintaxis de los archivos python con
+
+` poetry run check `
 
