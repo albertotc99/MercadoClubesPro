@@ -21,9 +21,14 @@ veces se prueban jugadores que no se adaptan al equipo por disponibilidad,
 estilo de juego u otros factores. 
 
 Con esta aplicación se pretende facilitar la tarea de encontrar
-equipo o jugador, tratando de evitar los problemas anteriores.
+equipo o jugador, tratando de resolver los problemas anteriores.
 
-## Objetivo 1
+## Documentación
 
-* [Historias de usuario](./docs/HUs.md).
-* [Tipos de usuario](./docs/usuarios.md)
+* [Tipos de usuario interesados en utilizar la aplicación](./docs/usuarios.md)
+* [Historias de usuario](./docs/HUs.md)
+* [Justificación de la elección de Poetry como task-runner y dependency manager](./docs/task-runner.md)
+
+
+
+
