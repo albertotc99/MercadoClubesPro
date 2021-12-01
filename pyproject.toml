@@ -6,10 +6,14 @@ description = "Proyecto para facilitar a la comunidad de clubes pro lo relaciona
 authors = ["Albertotc99 <albertojtc99@gmail.com>"]
 license = "GLP-3.0"
 
+[tool.poetry.scripts]
+check = "test.tests:check"
+
 [tool.poetry.dependencies]
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
+pylint = "^2.12.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
