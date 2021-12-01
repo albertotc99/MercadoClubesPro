@@ -1,0 +1,16 @@
+
+[tool.poetry]
+name = "mercadoclubespro"
+version = "0.1.0"
+description = "Proyecto para facilitar a la comunidad de clubes pro lo relacionado con el mercado de fichajes"
+authors = ["Albertotc99 <albertojtc99@gmail.com>"]
+license = "GLP-3.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
