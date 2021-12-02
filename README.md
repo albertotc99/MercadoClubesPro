@@ -32,9 +32,12 @@ equipo o jugador, tratando de resolver los problemas anteriores.
 
 ## Instalación y uso
 
+> **Requisitos:** Es necesario tener la versión 3.8 o superior de python. No se asegura que el proyecto
+> funcione con versiones anteriores.
+
 Para instalar este proyecto se debe comenzar por clonar el repositorio. Después se tiene que instalar *poetry* siguiendo las instrucciones de [instalación de poetry](https://python-poetry.org/docs/).
 
-Una vez clonado el repositorio e instalado *poetry* se tiene que abrir una terminal en la carpeta del proyecto y ejecutar ` poetry install ` para instalar las dependencias.
+Después se tiene que abrir una terminal en la carpeta del proyecto y ejecutar ` poetry install ` para instalar las dependencias.
 
 En este punto podemos comprobar la sintaxis de los archivos python con
 
