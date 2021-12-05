@@ -21,9 +21,25 @@ veces se prueban jugadores que no se adaptan al equipo por disponibilidad,
 estilo de juego u otros factores. 
 
 Con esta aplicación se pretende facilitar la tarea de encontrar
-equipo o jugador, tratando de evitar los problemas anteriores.
+equipo o jugador, tratando de resolver los problemas anteriores.
 
-## Objetivo 1
+## Documentación
 
-* [Historias de usuario](./docs/HUs.md).
-* [Tipos de usuario](./docs/usuarios.md)
+* [Tipos de usuario interesados en utilizar la aplicación](./docs/usuarios.md)
+* [Historias de usuario](./docs/HUs.md)
+* [Justificación de la elección de Poetry como task-runner y dependency manager](./docs/task-runner.md)
+
+
+## Instalación y uso
+
+> **Requisitos:** Es necesario tener la versión 3.8 o superior de python. No se asegura que el proyecto
+> funcione con versiones anteriores.
+
+Para instalar este proyecto se debe comenzar por clonar el repositorio. Después se tiene que instalar *poetry* siguiendo las instrucciones de [instalación de poetry](https://python-poetry.org/docs/).
+
+Después se tiene que abrir una terminal en la carpeta del proyecto y ejecutar ` poetry install ` para instalar las dependencias.
+
+En este punto podemos comprobar la sintaxis de los archivos python con
+
+` poetry run check `
+
